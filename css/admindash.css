@@ -1,0 +1,16 @@
+#wel{ background-color: lightsalmon;
+    height:20%;
+    width:100%;
+}
+#but{ float : right;
+}
+.no{ font-size: 40px;
+}
+table{ margin-left:10px;
+}
+.anc{ font-size: 25px;
+}
+a{ text-decoration: none;
+}
+a:hover{  text-decoration: none;
+}

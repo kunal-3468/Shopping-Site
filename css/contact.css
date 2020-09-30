@@ -1,0 +1,23 @@
+#gs{ height: 34%; 
+    background-color: white;
+}
+#hg{margin-left: 300px; 
+  font-size: 4.5em; 
+  font-family: 'Permanent Marker';
+}
+#bo{  height: 3.5rem;
+    background-color: coral;
+}
+.ban{ margin: 8%;
+    font-size: 2em;
+    font-family: 'Squada One';
+    color: antiquewhite;
+}
+.ban:hover{ font-size: 2.5em;
+         text-decoration: none;
+         color: antiquewhite;
+}
+a{ text-decoration: none;
+}
+.inp{ width: 40%;
+}
